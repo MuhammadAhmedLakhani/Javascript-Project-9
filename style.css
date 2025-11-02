@@ -1,0 +1,71 @@
+
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.bg {
+    background-color: rgb(163, 185, 185);
+}
+
+ul > li > a {
+    font-size: 30px !important;
+    color: rgb(4, 49, 49) !important;
+}
+
+.carousel-item {
+    height: 400px; /* Set a fixed height for the container */
+    /* You may also need to set a min-height on the carousel-inner or the carousel itself */
+}
+
+.carousel-item img {
+    height: 100%; /* Image takes 100% of the container's height */
+    width: 100%; /* Image takes 100% of the container's width */
+}
+
+
+.search > .heading {
+    text-align: center;
+    color: rgb(15, 135, 135);
+    
+}
+.search > .heading > h1 {
+    margin: 20px 0;
+    font-size: 60px;
+    font-family:monospace;
+    text-decoration: underline;
+}
+
+.input {
+    text-align: center;
+}
+.input2 {
+    width: 25vw;
+    height: 10vh;
+    border: none;
+    outline: none;
+    border-radius: 25px !important;
+    margin-right: 20px;
+    color: rgb(4, 49, 49) !important;
+    font-weight: 700;
+    background-color: #e1f4f4;
+    font-size: 42px;
+}
+
+::placeholder {
+  color: #999;
+  font-size: 1em; 
+  font-weight: bold;
+  text-align: center;
+  opacity: 1; /* Override Firefox's default lower opacity */
+}
+.input > button {
+    width: 10vw;
+    height: 8vh;
+    font-size: 30px;
+    border-radius: 25px;
+    box-sizing: border-box;
+    background-color: rgb(92, 119, 137);
+
+}
