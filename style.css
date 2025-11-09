@@ -25,6 +25,7 @@ ul > li > a {
 }
 
 
+
 .search > .heading {
     text-align: center;
     color: rgb(15, 135, 135);
@@ -41,8 +42,8 @@ ul > li > a {
 .input {
     text-align: center;
 }
-.input2 {
-    width: 15vw;
+.input1 {
+    width: auto;
     height: 10vh;
     border: none;
     outline: none;
@@ -58,7 +59,8 @@ ul > li > a {
 
 .input > button {
     width: 8vw;
-    height: 6vh;
+    height: 8vh;
+    vertical-align:baseline;
     font-size: 25px;
     font-weight: 500    ;
     border-radius: 25px;

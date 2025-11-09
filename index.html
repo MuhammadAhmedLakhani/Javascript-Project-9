@@ -52,6 +52,8 @@
 
 
             <div class="slider">
+
+                
                 <div id="carouselExample" class="carousel slide" data-bs-ride="carousel">
                     <div class="carousel-inner s1">
                         <div class="carousel-item active" data-bs-interval="3000">
@@ -83,11 +85,14 @@
                 </div>
                 <br>
                 <div class="input">
-                    <!-- <input type="dropdown" placeholder="Find your car" class="input2"> -->
-                    <select id="cars"  class="input2" >
-                        <option value="apple"  >Find your Car</option>
+                    
+                    <select id="cars"  class="input1" onchange="showModel()"  >
+                        <option >Choose Brand</option>
                     </select>
-                    <button>Search</button>
+                    <select class="input1" id = "model" onclick="modelValue()" >
+                        <option>Select Model</option>
+                    </select>
+                    <button onclick="show()">Search</button>
 
                 </div>
                 <div class="info" id="show"></div>
