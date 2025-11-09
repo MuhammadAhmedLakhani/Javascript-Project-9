@@ -105,7 +105,9 @@ ul > li > a {
 
 .all {
     margin-top: 80px;
+    /* height: auto; */
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
+    align-content:space-around;
 }

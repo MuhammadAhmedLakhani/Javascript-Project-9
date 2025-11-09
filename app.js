@@ -1032,6 +1032,7 @@ for (key in cars) {
 var company;
 var count = 0;
 function showModel() {
+    display.innerHTML = ""
     company = carBrand.value
     carModel.innerHTML = ""
     for (key in cars) {
@@ -1074,15 +1075,19 @@ var display = document.getElementById("show")
 var all = document.getElementById("allshow")
 
 function show() {
+    all.style.height = "0px"
+
     all.innerHTML = ""
     if (model) {
         display.innerHTML = cars[company][model].getData()
+        model = ""
     } else {
         for (key in cars[company]) {
             // console.log(cars[company][key].Image)
+            all.style.height = "800px"
             all.innerHTML += `
                 
-                <img src = "${cars[company][key].Image}" width = "400px" height = "300px">
+                <img src = "${cars[company][key].Image}" width = "350px" height = "300px">
                 
             `
         }
