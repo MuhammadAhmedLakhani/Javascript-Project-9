@@ -48,7 +48,7 @@ var cars = {
             name: "Camry XLE Hybrid",
             Model_Year: 2025,
             vahicleType: "Midsize Sedan / Hybrid",
-            Image:"images/tc2.avif",
+            Image: "images/tc2.avif",
             features: {
                 Horsepower: "225-232 hp (net system, depending on FWD/AWD)",
                 Engine: "2.5L 4-Cylinder Hybrid System (THS 5)",
@@ -88,7 +88,7 @@ var cars = {
             name: "Highlander Hybrid Limited",
             Model_Year: 2026,
             vahicleType: "Midsize 3-Row SUV / Hybrid",
-            Image:"images/TC3.avif",
+            Image: "images/TC3.avif",
             features: {
                 Horsepower: "243 hp",
                 Engine: "2.5L 4-Cylinder with electric motors",
@@ -128,7 +128,7 @@ var cars = {
             name: "Corolla Hatchback XSE",
             Model_Year: 2025,
             vahicleType: "Compact Hatchback / Gasoline",
-            Image:"images/tc4.avif",
+            Image: "images/tc4.avif",
             features: {
                 Horsepower: "169 hp",
                 Engine: "2.0L 4-Cylinder",
@@ -168,7 +168,7 @@ var cars = {
             name: "Tacoma TRD Pro",
             Model_Year: 2025,
             vahicleType: "Midsize Pickup Truck / Hybrid",
-            Image:"images/TC5.avif",
+            Image: "images/TC5.avif",
             features: {
                 Horsepower: "326 hp",
                 Engine: "2.4L Turbo Max Hybrid (i-FORCE MAX)",
@@ -330,7 +330,7 @@ var cars = {
             name: "Odyssey Elite",
             Model_Year: 2026,
             vahicleType: "Minivan / Gasoline",
-            Image:"images/HC4.avif",
+            Image: "images/HC4.avif",
             features: {
                 Horsepower: "280 hp",
                 Engine: "3.5L V6",
@@ -370,7 +370,7 @@ var cars = {
             name: "Prelude",
             Model_Year: 2026,
             vahicleType: "Sports Coupe / Hybrid",
-            Image:"images/HC5.avif",
+            Image: "images/HC5.avif",
             features: {
                 Horsepower: "Approx. 200 hp (est.)",
                 Engine: "2.0L 4-Cylinder Hybrid System",
@@ -412,7 +412,7 @@ var cars = {
             name: "F-150 Lariat PowerBoost Hybrid",
             Model_Year: 2025,
             vahicleType: "Full-Size Pickup Truck / Hybrid",
-            Image:"images/FC1.avif",
+            Image: "images/FC1.avif",
             features: {
                 Horsepower: "430 hp (total system)",
                 Engine: "3.5L PowerBoost Full Hybrid V6",
@@ -452,7 +452,7 @@ var cars = {
             name: "Mustang Dark Horse",
             Model_Year: 2025,
             vahicleType: "Sports Coupe",
-            Image:"images/FC2.avif",
+            Image: "images/FC2.avif",
             features: {
                 Horsepower: "500 hp",
                 Engine: "5.0L Ti-VCT V8 (Coyote)",
@@ -492,7 +492,7 @@ var cars = {
             name: "Explorer ST",
             Model_Year: 2026,
             vahicleType: "Midsize 3-Row SUV / Gasoline",
-            Image:"images/FC3.avif",
+            Image: "images/FC3.avif",
             features: {
                 Horsepower: "400 hp",
                 Engine: "3.0L EcoBoost V6",
@@ -532,7 +532,7 @@ var cars = {
             name: "Escape Plug-In Hybrid",
             Model_Year: 2025,
             vahicleType: "Compact Crossover SUV / Plug-in Hybrid",
-            Image:"images/FC4.avif",
+            Image: "images/FC4.avif",
             features: {
                 Horsepower: "210 hp (combined system)",
                 Engine: "2.5L 4-Cylinder Plug-in Hybrid",
@@ -572,7 +572,7 @@ var cars = {
             name: "Bronco Wildtrak",
             Model_Year: 2025,
             vahicleType: "Midsize SUV / Gasoline",
-            Image:"images/FC5.png",
+            Image: "images/FC5.png",
             features: {
                 Horsepower: "315 hp",
                 Engine: "2.7L EcoBoost V6",
@@ -614,7 +614,7 @@ var cars = {
             name: "Model Y Long Range AWD",
             Model_Year: 2025,
             vahicleType: "Midsize Crossover SUV / BEV",
-            Image:"images/EC1.avif",
+            Image: "images/EC1.avif",
             features: {
                 Horsepower: "Approx. 425 hp (est.)",
                 Engine: "N/A (Dual Electric Motors)",
@@ -654,7 +654,7 @@ var cars = {
             name: "Model 3 Performance",
             Model_Year: 2025,
             vahicleType: "Midsize Sedan / BEV",
-            Image:"images/EC2.avif",
+            Image: "images/EC2.avif",
             features: {
                 Horsepower: "Approx. 510 hp (est.)",
                 Engine: "N/A (Dual Electric Motors)",
@@ -694,7 +694,7 @@ var cars = {
             name: "Model S Plaid",
             Model_Year: 2025,
             vahicleType: "Full-Size Luxury Sedan / BEV",
-            Image:"images/EC3.avif",
+            Image: "images/EC3.avif",
             features: {
                 Horsepower: "1,020 hp",
                 Engine: "N/A (Tri-Electric Motors)",
@@ -734,7 +734,7 @@ var cars = {
             name: "Cybertruck All-Wheel Drive",
             Model_Year: 2025,
             vahicleType: "Full-Size Pickup Truck / BEV",
-            Image:"images/EC4.png",
+            Image: "images/EC4.png",
             features: {
                 Horsepower: "600 hp (est.)",
                 Engine: "N/A (Dual Electric Motors)",
@@ -774,7 +774,7 @@ var cars = {
             name: "Model X Plaid",
             Model_Year: 2025,
             vahicleType: "Midsize Luxury SUV / BEV",
-            Image:"images/EC5.avif",
+            Image: "images/EC5.avif",
             features: {
                 Horsepower: "1,020 hp",
                 Engine: "N/A (Tri-Electric Motors)",
@@ -816,7 +816,7 @@ var cars = {
             name: "i4 M50 xDrive",
             Model_Year: 2025,
             vahicleType: "Midsize Sedan (Gran Coupe) / BEV",
-            Image:"images/BC1.webp",
+            Image: "images/BC1.webp",
             features: {
                 Horsepower: "536 hp (in Sport Boost mode)",
                 Engine: "N/A (Dual Electric Motors)",
@@ -856,7 +856,7 @@ var cars = {
             name: "X5 xDrive40i",
             Model_Year: 2025,
             vahicleType: "Midsize Luxury SUV / Mild Hybrid",
-            Image:"images/BC2.webp",
+            Image: "images/BC2.webp",
             features: {
                 Horsepower: "375 hp",
                 Engine: "3.0L Turbo Inline-6 Mild Hybrid",
@@ -896,7 +896,7 @@ var cars = {
             name: "330i Sedan",
             Model_Year: 2025,
             vahicleType: "Compact Luxury Sedan / Gasoline",
-            Image:"images/BC3.jfif",
+            Image: "images/BC3.jfif",
             features: {
                 Horsepower: "255 hp",
                 Engine: "2.0L Turbo Inline-4",
@@ -936,7 +936,7 @@ var cars = {
             name: "iX xDrive50",
             Model_Year: 2025,
             vahicleType: "Midsize Luxury SUV / BEV",
-            Image:"images/BC4.avif",
+            Image: "images/BC4.avif",
             features: {
                 Horsepower: "516 hp",
                 Engine: "N/A (Dual Electric Motors)",
@@ -976,7 +976,7 @@ var cars = {
             name: "M4 Competition xDrive Coupe",
             Model_Year: 2025,
             vahicleType: "Sports Coupe / Gasoline",
-            Image:"images/BC5.webp",
+            Image: "images/BC5.webp",
             features: {
                 Horsepower: "523 hp",
                 Engine: "3.0L TwinPower Turbo Inline-6",
@@ -1030,31 +1030,38 @@ for (key in cars) {
 
 
 var company;
+var count = 0;
 function showModel() {
     company = carBrand.value
     carModel.innerHTML = ""
     for (key in cars) {
-        console.log(1)
+
         if (key === company) {
             for (key1 in cars[key]) {
+                count++
+                if (count === 1) {
+                    carModel.innerHTML += `<option>Select Model<?option>`
+                }
                 carModel.innerHTML += `
+                        
                         <option>${cars[key][key1].name}</option>
                     `
 
 
             }
+            count = 0
         }
     }
-    
+
 }
 var model;
 function modelValue() {
     model = carModel.value
     console.log(model)
-    for(key in  cars){
-        if(key === company) {
-            for(key1 in cars[key]){
-                if(cars[key][key1].name === model){
+    for (key in cars) {
+        if (key === company) {
+            for (key1 in cars[key]) {
+                if (cars[key][key1].name === model) {
                     model = key1
                     console.log(model)
                 }
@@ -1063,10 +1070,23 @@ function modelValue() {
     }
 }
 
+var display = document.getElementById("show")
+var all = document.getElementById("allshow")
 
 function show() {
-    var display = document.getElementById("show")
-    display.innerHTML = cars[company][model].getData()
+    all.innerHTML = ""
+    if (model) {
+        display.innerHTML = cars[company][model].getData()
+    } else {
+        for (key in cars[company]) {
+            // console.log(cars[company][key].Image)
+            all.innerHTML += `
+                
+                <img src = "${cars[company][key].Image}" width = "400px" height = "300px">
+                
+            `
+        }
+    }
 
 }
 

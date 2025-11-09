@@ -101,3 +101,11 @@ ul > li > a {
 .year {
     font-weight: bold;
 }
+
+
+.all {
+    margin-top: 80px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
